@@ -19,7 +19,7 @@
 ![](https://github-contributor-stats.vercel.app/api?username=BillLoic&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ### 😂 Random Dev Meme
-<scripts>
+<scripts type="text/javascript">
 function getRandomInt(max) {
   return Math.floor(Math.random() * max);
 };
