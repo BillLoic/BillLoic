@@ -19,14 +19,17 @@
 ![](https://github-contributor-stats.vercel.app/api?username=BillLoic&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ### 😂 Random Dev Meme
-<scripts type="text/javascript">
-function getRandomInt(max) {
-  return Math.floor(Math.random() * max);
-};
-</scripts>
-<img src=https://xkcd.com/{getRandomInt(2500)}/></img>
+<img src=getRandomXkcdLink()></a>
 
-Meme by <a href=https://xkcd.com>XKCD</a>
+    <script>
+        function getRandomXkcdLink() {
+            const maxComics = 2500;  // 假设xkcd当前有2500个漫画
+            const randomComicNumber = Math.floor(Math.random() * maxComics) + 1;
+            return `https://xkcd.com/${randomComicNumber}/`;
+        }
+
+        document.getElementById('random-xkcd-link').href = getRandomXkcdLink();
+    </script>
 
 # Donate
 
