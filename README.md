@@ -19,12 +19,15 @@
 ![](https://github-contributor-stats.vercel.app/api?username=BillLoic&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ### 😂 Random Dev Meme
-<img src='https://memer-new.vercel.app/' style="height: 400px;"/>
+<scripts>
+function getRandomInt(max) {
+  return Math.floor(Math.random() * max);
+};
+var params=getRandomInt(2500);
+</scripts>
+<img src=https://xkcd.com/{params}/></img>
 
----
-[![](https://visitcount.itsvg.in/api?id=BillLoic&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+Meme by <a href=https://xkcd.com>XKCD</a>
 
 # Donate
 
