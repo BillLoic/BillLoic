@@ -14,5 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCflGTsS5njzXgJNXAUDlN8g">
+<img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCflGTsS5njzXgJNXAUDlN8g?link=https%3A%2F%2Fwww.youtube.com%2Fchannel%2FUCflGTsS5njzXgJNXAUDlN8g">
+
 
