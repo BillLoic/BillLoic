@@ -19,22 +19,8 @@
 ![](https://github-contributor-stats.vercel.app/api?username=BillLoic&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ### 😂 Random Dev Meme
-(javascript:void(0);)
+<img src="https://c.xkcd.com/random/comic/"></img>
 
-<script>
-function getRandomXkcdLink() {
-    var maxComics = 2500;  // 假设xkcd当前有2500个漫画
-    var randomComicNumber = Math.floor(Math.random() * maxComics) + 1;
-    return 'https://xkcd.com/' + randomComicNumber + '/';
-}
-
-document.addEventListener('DOMContentLoaded', function() {
-    var link = document.querySelector('a[href="javascript:void(0);"]');
-    if (link) {
-        link.href = getRandomXkcdLink();
-    }
-});
-</script>
 # Donate
 
 <p>If you like my project, you can donate me as Ethereum.</p>.
