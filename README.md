@@ -23,9 +23,8 @@
 function getRandomInt(max) {
   return Math.floor(Math.random() * max);
 };
-var params=getRandomInt(2500);
 </scripts>
-<img src=https://xkcd.com/{params}/></img>
+<img src=https://xkcd.com/{getRandomInt(2500)}/></img>
 
 Meme by <a href=https://xkcd.com>XKCD</a>
 
