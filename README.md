@@ -16,4 +16,9 @@ Here are some ideas to get you started:
 -->
 <img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCflGTsS5njzXgJNXAUDlN8g?link=https%3A%2F%2Fwww.youtube.com%2Fchannel%2FUCflGTsS5njzXgJNXAUDlN8g">
 
+<p>I'm a software devlopper, I'm best of low-level and low-dependcies library.</p>
 
+# Donate
+
+<p>If you like my project, you can donate me as Ethereum.</p>.
+Address: <strong>0x41377b8c24248D1C023b764f7bda35382E6DA94E</strong>
