@@ -19,7 +19,7 @@
 ![](https://github-contributor-stats.vercel.app/api?username=BillLoic&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ### 😂 Random Dev Meme
-<img src="https://c.xkcd.com/random/comic/"></img>
+<img src="https://imgs.xkcd.com/comics/sandboxing_cycle.png"></img>
 
 # Donate
 
